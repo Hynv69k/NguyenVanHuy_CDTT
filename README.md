@@ -1,8 +1,8 @@
 # Phiếu đăng kí đề tài và thực hiện
 # Thông tin sinh viên
--Họ tên: Nguyễn Văn Huy  
--Mã sinh viên: 2121110139  
--Lớp: CCQ2111D  
+- Họ tên: Nguyễn Văn Huy  
+- Mã sinh viên: 2121110139  
+- Lớp: CCQ2111D  
 # Đề tài:
 -Tên đề tài :  
 -Công Nghệ: laravel + ReactJS +(Công nghệ giao diện tự chọn : Tailwind hoặc Bootstrap)  
