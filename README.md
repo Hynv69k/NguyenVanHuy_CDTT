@@ -3,7 +3,7 @@
 * Họ tên: Nguyễn Văn Huy  
 * Mã sinh viên: 2121110139  
 * Lớp: CCQ2111D  
-# Đề tài:
+# Đề tài: Bán Game Online
 * Tên đề tài :  
 * Công Nghệ: laravel + ReactJS +(Công nghệ giao diện tự chọn : Tailwind hoặc Bootstrap)  
 # Kế hoạch thực hiện:
